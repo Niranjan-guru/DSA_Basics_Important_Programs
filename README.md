@@ -8,7 +8,7 @@ DSA is like the vast sea—full of deeper and shallower concepts waiting for you
 📜 Pro-Tips for Mastering DSA:
 No Peeking at Answers: If you're stuck on a problem, resist the urge to look up solutions. Revisit the concepts, try again, code a bit more, and then—and only then—if you're still stuck (though I bet you won't be 😉), peek at the answers. This builds problem-solving muscle!
 
-Basics Are Boring? No Way!: Master the basics, no matter how dry or interesting they seem. Skipping them because they're hard? Nope, not on our watch! Check out awesome resources like YouTube channels from Abdul Baari or Jenny's Lectures. They make learning fun and accessible.
+Basics Are Boring? No Way!: Master the basics, no matter how dry or interesting they seem. Skipping them because they're hard? Nope, not on our watch! Check out awesome resources like YouTube channels from Abdul Baari or Jenny's Lectures. They make learning easy.
 
 If you stick to these steps (at least try, na beta? 😂), you'll be a DSA master in no time!
 
