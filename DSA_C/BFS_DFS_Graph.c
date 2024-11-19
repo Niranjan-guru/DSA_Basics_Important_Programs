@@ -32,3 +32,5 @@ void dfs(int adj[][MAX], int visited[], int start){
         }
     }
 }
+
+// P.S: This is just an implementation of the algorithm, the main function of the program would differ from one language to the other.......
